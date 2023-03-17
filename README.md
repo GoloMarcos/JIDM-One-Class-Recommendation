@@ -30,14 +30,15 @@
 - Results: total results of each method in each scenario considering all parameters used
 - Code: source codes used for the study experiments and result analysis
 
-# Please cite:
+# Citing:
 
-@article{ref:Golo2023,
-
-  title={Recommender Systems: One-Class Learning and Unsupervised Graph Neural Networks via Link Prediction},
-  
-  author={Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
-  
-  journal={Journal of Information Data Management},
-  
-  publisher={SBC}}
+If you use any part of this code in your research, please cite it using the following BibTex entry
+```latex
+@misc{ref:Golo2023,
+  author = {Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
+  title = {Recommender Systems: One-Class Learning and Unsupervised Graph Neural Networks via Link Prediction},
+  year = {2023},
+  journal = {Journal of Information Data Management},
+  publisher={SBC}
+}
+```
