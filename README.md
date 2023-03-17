@@ -17,7 +17,7 @@
 ![Google Results](/images/results3.png)
 
 # TSNE
-![TSNE](/images/tsne.png)
+![TSNE](/images/TSNE.png)
 
 # Explainability Model
 ![TSNE](/images/exp.png)
