@@ -33,8 +33,11 @@
 # Please cite:
 
 @article{ref:Golo2023,
+
   title={Recommender Systems: One-Class Learning and Unsupervised Graph Neural Networks via Link Prediction},
-  author={G{\^o}lo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
+  
+  author={Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
+  
   journal={Journal of Information Data Management},
-  publisher={SBC}
-}
+  
+  publisher={SBC}}
