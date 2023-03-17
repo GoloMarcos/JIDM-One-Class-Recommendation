@@ -34,7 +34,7 @@
 
 If you use any part of this code in your research, please cite it using the following BibTex entry
 ```latex
-@misc{ref:Golo2023,
+@article{ref:Golo2023,
   author = {Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
   title = {Recommender Systems: One-Class Learning and Unsupervised Graph Neural Networks via Link Prediction},
   year = {2023},
