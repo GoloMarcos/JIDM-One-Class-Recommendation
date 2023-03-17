@@ -22,7 +22,7 @@
 # Explainability Model
 ![Exp](/images/epx.png)
 
-# Explainability Model
+# Statistical Test
 ![Friedman and Nemenyi Post Test](/images/ocr.png)
 
 # File Organization
