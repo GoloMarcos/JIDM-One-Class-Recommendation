@@ -20,7 +20,7 @@
 ![TSNE](/images/TSNE.png)
 
 # Explainability Model
-![Exp](/images/exp.png)
+![Exp](/images/epx.png)
 
 # Explainability Model
 ![Friedman and Nemenyi Post Test](/images/nemenyi.png)
