@@ -23,7 +23,7 @@
 ![Exp](/images/epx.png)
 
 # Explainability Model
-![Friedman and Nemenyi Post Test](/images/nemenyi.png)
+![Friedman and Nemenyi Post Test](/images/ocr.png)
 
 # File Organization
 - Dataset: Dataset files
