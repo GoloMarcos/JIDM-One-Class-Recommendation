@@ -9,12 +9,14 @@
 
 If you use any part of this code in your research, please cite it using the following BibTex entry
 ```latex
-@article{ref:Golo2023,
-  author = {Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
-  title = {Recommender Systems: One-Class Learning and Unsupervised Graph Neural Networks via Link Prediction},
-  year = {2023},
-  journal = {Journal of Information Data Management},
-  publisher={SBC}
+@article{ref:Golo2024,
+  title={The Impact of Representation Learning on Unsupervised Graph Neural Networks for One-Class Recommendation},
+  author={G{\^o}lo, Marcos Paulo Silva and de Moraes, Leonardo Gon{\c{c}}alves and Goularte, Rudinei and Marcacini, Ricardo Marcondes},
+  journal={Journal of Information and Data Management},
+  volume={15},
+  number={1},
+  pages={112--122},
+  year={2024}
 }
 ```
 
